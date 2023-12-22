@@ -1,0 +1,19 @@
+﻿生成启动时间为 2023/12/9 12:19:05。
+     1>项目“E:\图形学\图形学\Exp2\Exp2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Exp2.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Exp2View.cpp
+         Exp2View.cpp
+     1>e:\图形学\图形学\exp2\exp2view.cpp(113): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\图形学\图形学\Debug\Exp2.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\图形学\图形学\Debug\Exp2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\图形学\图形学\Debug\Exp2.lib" /MACHINE:X86 Debug\Exp2.res
+         Debug\Exp2.obj
+         Debug\Exp2Doc.obj
+         Debug\Exp2View.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         Exp2.vcxproj -> E:\图形学\图形学\Debug\Exp2.exe
+     1>已完成生成项目“E:\图形学\图形学\Exp2\Exp2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.17

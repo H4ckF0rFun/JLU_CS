@@ -1,0 +1,21 @@
+﻿生成启动时间为 2023/12/15 13:28:49。
+     1>项目“E:\图形学\图形学\Exp4\Exp4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Exp4.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Exp4.cpp Exp4View.cpp
+         Exp4.cpp
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         Exp4View.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\图形学\图形学\Debug\Exp4.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\图形学\图形学\Debug\Exp4.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\图形学\图形学\Debug\Exp4.lib" /MACHINE:X86 Debug\Exp4.res
+         Debug\Exp4.obj
+         Debug\Exp4Doc.obj
+         Debug\Exp4View.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         Exp4.vcxproj -> E:\图形学\图形学\Debug\Exp4.exe
+     1>已完成生成项目“E:\图形学\图形学\Exp4\Exp4.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.51

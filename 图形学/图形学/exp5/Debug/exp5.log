@@ -1,0 +1,31 @@
+﻿生成启动时间为 2023/12/22 9:20:08。
+     1>项目“E:\图形学\图形学\exp5\exp5.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\exp5.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt exp5.cpp exp5View.cpp
+         exp5View.cpp
+     1>e:\图形学\图形学\exp5\exp5view.cpp(151): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+     1>e:\图形学\图形学\exp5\exp5view.cpp(179): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+     1>e:\图形学\图形学\exp5\exp5view.cpp(183): warning C4305: “+=”: 从“double”到“float”截断
+     1>e:\图形学\图形学\exp5\exp5view.cpp(196): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\图形学\图形学\exp5\exp5view.cpp(212): warning C4305: “=”: 从“double”到“float”截断
+     1>e:\图形学\图形学\exp5\exp5view.cpp(241): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\图形学\图形学\exp5\exp5view.cpp(242): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\图形学\图形学\exp5\exp5view.cpp(256): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\图形学\图形学\exp5\exp5view.cpp(274): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\图形学\图形学\exp5\exp5view.cpp(275): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         exp5.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\图形学\图形学\Debug\exp5.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\图形学\图形学\Debug\exp5.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\图形学\图形学\Debug\exp5.lib" /MACHINE:X86 Debug\exp5.res
+         Debug\exp5.obj
+         Debug\exp5Doc.obj
+         Debug\exp5View.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         exp5.vcxproj -> E:\图形学\图形学\Debug\exp5.exe
+     1>已完成生成项目“E:\图形学\图形学\exp5\exp5.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.75
