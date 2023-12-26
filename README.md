@@ -8,5 +8,6 @@
 5.  程序设计基础课程设计 (基于MFC的XXX管理系统)
 6.  数据结构课程设计 (亚马逊棋 AI)
 7.  C# 课程设计打飞机游戏 https://github.com/H4ckF0rFun/BombPlane
-
+8.  CPU设计实验
+   
 有需要的自取。
