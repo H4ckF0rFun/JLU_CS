@@ -63,6 +63,7 @@ public:
 	afx_msg void OnBezier();
 	afx_msg void OnHermite();
 	afx_msg void OnClear();
+	afx_msg int OnCreate(LPCREATESTRUCT lpCreateStruct);
 };
 
 #ifndef _DEBUG  // exp5View.cpp 中的调试版本

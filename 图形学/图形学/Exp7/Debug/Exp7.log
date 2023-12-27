@@ -1,0 +1,35 @@
+﻿生成启动时间为 2023/12/27 9:19:18。
+     1>项目“E:\JLU_CS\图形学\图形学\Exp7\Exp7.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Exp7.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Exp7.cpp Exp7Doc.cpp Exp7View.cpp MainFrm.cpp
+         Exp7View.cpp
+     1>e:\jlu_cs\图形学\图形学\exp7\exp7view.cpp(109): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+     1>e:\jlu_cs\图形学\图形学\exp7\exp7view.cpp(136): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+     1>e:\jlu_cs\图形学\图形学\exp7\exp7view.cpp(159): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+     1>e:\jlu_cs\图形学\图形学\exp7\exp7view.cpp(272): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\jlu_cs\图形学\图形学\exp7\exp7view.cpp(290): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\jlu_cs\图形学\图形学\exp7\exp7view.cpp(291): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\jlu_cs\图形学\图形学\exp7\exp7view.cpp(362): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\jlu_cs\图形学\图形学\exp7\exp7view.cpp(380): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\jlu_cs\图形学\图形学\exp7\exp7view.cpp(381): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\jlu_cs\图形学\图形学\exp7\exp7view.cpp(418): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         MainFrm.cpp
+         Exp7Doc.cpp
+         Exp7.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\Exp7.res" Exp7.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\JLU_CS\图形学\图形学\Debug\Exp7.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\JLU_CS\图形学\图形学\Debug\Exp7.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\JLU_CS\图形学\图形学\Debug\Exp7.lib" /MACHINE:X86 Debug\Exp7.res
+         Debug\Exp7.obj
+         Debug\Exp7Doc.obj
+         Debug\Exp7View.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         Exp7.vcxproj -> E:\JLU_CS\图形学\图形学\Debug\Exp7.exe
+     1>已完成生成项目“E:\JLU_CS\图形学\图形学\Exp7\Exp7.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.64

@@ -33,6 +33,7 @@ BEGIN_MESSAGE_MAP(Cexp5View, CView)
 	ON_COMMAND(ID_HERMITE, &Cexp5View::OnHermite)
 	ON_COMMAND(ID_CLEAR, &Cexp5View::OnClear)
 	ON_WM_TIMER()
+	ON_WM_CREATE()
 END_MESSAGE_MAP()
 
 // Cexp5View 构造/析构
@@ -364,3 +365,14 @@ void Cexp5View::OnClear()
 	InvalidateRect(rect);
 }
 
+
+
+int Cexp5View::OnCreate(LPCREATESTRUCT lpCreateStruct)
+{
+	if (CView::OnCreate(lpCreateStruct) == -1)
+		return -1;
+
+	// TODO:  在此添加您专用的创建代码
+	
+	return 0;
+}
