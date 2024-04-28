@@ -10,4 +10,5 @@
 7.  C# 课程设计打飞机游戏 https://github.com/H4ckF0rFun/BombPlane
 8.  CPU设计实验
 9.  企业实训-web-京东首页
+10.  编译原理课程设计 https://github.com/zjh3417/SNL_complier_JLU
 有需要的自取。
